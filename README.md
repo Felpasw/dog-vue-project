@@ -14,7 +14,7 @@ O projeto utiliza a API gratuita da Dog API para gerar imagens dinamicamente, pr
 # Como Executar o Projeto 📥
 ### Clone este repositório para a sua máquina local.
 ```bash
-git clone https://github.com/seu-usuario/dog-vue-project.git
+git clone https://github.com/felpasw/dog-vue-project.git
 ```
 ### Navegue até o diretório do projeto.
 ```bash
